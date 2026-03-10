@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------*\
- | CODES INPUT AND FORMATTING STATEMENT								      				 |
- | AUTHOR: MICHAEL W EDWARDS 10-15-18 AMDG                           |
- \*-----------------------------------------------------------------*/
+ | CODES INPUT AND FORMATTING STATEMENT								     |
+ | AUTHOR: MICHAEL W EDWARDS 10-15-18 AMDG                          |
+ \*----------------------------------------------------------------*/
 /**/
 
 *CODESET INPUT.  MATCHES PROC FORMAT CNTLIN= SYNTAX;
