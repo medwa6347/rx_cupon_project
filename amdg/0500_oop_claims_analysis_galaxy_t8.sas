@@ -1,6 +1,5 @@
  /*----------------------------------------------------------------*\
- | STANDALONE ADHOC OOP ACCUMULATOR ANALYSIS FOR JANSSEN	(201808)	|
- |  HTTP://DMO.OPTUM.COM/PRODUCTS/GALAXY.HTML												|
+ | STANDALONE ADHOC OOP ACCUMULATOR ANALYSIS FOR JANSSEN	(201808)|
  | AUTHOR: MICHAEL EDWARDS 2018-08-16 AMDG                          |
  \*----------------------------------------------------------------*/													
 /**/
